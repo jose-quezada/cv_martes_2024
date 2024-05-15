@@ -1,0 +1,6 @@
+.imagen_redonda{
+    border-radius: 100%;
+    position: relative;
+    width: 100%;
+    top: 10px;
+}
